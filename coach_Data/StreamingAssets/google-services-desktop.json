@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "203851094404",
+    "firebase_url": "https://coach-edge-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "coach-edge",
+    "storage_bucket": "coach-edge.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203851094404:android:da562b3c672a1f5cb765d1",
+        "android_client_info": {
+          "package_name": "com.company.coachedge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203851094404-d5gh68tl0b14gvcf1rp3e6ccc6gagsaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXVep3coLFMJqV0rclMJmuY-F4xk5A0VI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203851094404-d5gh68tl0b14gvcf1rp3e6ccc6gagsaf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
